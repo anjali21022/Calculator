@@ -1,0 +1,10 @@
+Description For index.html file
+ &larr is used to add back arrow in calculator.
+
+Description For style.css file
+  1fr is used 4 time for fraction & means (4 Columns).
+  Transitions allows you to change property values smoothly, over a given duration.
+
+Description For index.js file
+  The slice() method returns selected elements in an array, as a new array.
+  The eval() method evaluates or executes an argument.
