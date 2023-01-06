@@ -55,6 +55,10 @@ Description For index.js file
   2) let buttons = Array.from(document.getElementsByClassName('button'));
   As we have taken class="buttons" in html file we are initializing it in js file, The Array.from() method is used to create a new array instance from a given          array, and The getElementsByClassName() method returns a collection of elements with a specified class name(s).
   
+  3) Map function is a collection of elements where each element is stored as a Key, value pair.
+
+  4) The addEventListener() method is used to attach an event handler to a particular element.
+
+  5) The slice() method returns selected elements in an array, as a new array.
   
-  The slice() method returns selected elements in an array, as a new array.
-  The eval() method evaluates or executes an argument.
+  6) The eval() method evaluates or executes an argument.
