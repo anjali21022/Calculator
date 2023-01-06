@@ -37,10 +37,10 @@ Description For style.css file
   maximum width is 400px (specifies the width of the container).
   margin: 10vh auto 0 auto (The margin property is used to set the margins for a container, 10vh is viewport height which is set to 10 (occupying 10% of entire        visible screen height),
   auto means that the left and right margin are automatically set by the browser based on the container, to make element centered, In order to center an element        inside its parent, use margin: 0 auto.
-  box-shadow: 0px 0px 43px 17px rgba(153,153,153,1) The box-shadow CSS property adds shadow effects around an element's frame, 0px 0px 43px 17px rgba(153,153,153,1)    (/* offset-x | offset-y | blur-radius | color */).
+  box-shadow: 0px 0px 43px 17px rgba(153,153,153,1) The box-shadow CSS property adds shadow effects around an element's frame, 0px 0px 43px 17px rgba(153,153,153,1)    (/* offset-x | offset-y | blur-radius | spread-radius | color */).
   
   2) #display
-  padding: 16px 8px; (top and bottom paddings are 10px, right and left paddings are 20px).
+  padding: 16px 8px; (top and bottom paddings are 16px, right and left paddings are 8px).
   
   3) .buttons
   grid-template-columns: 1fr 1fr 1fr 1fr: The grid-template-columns property specifies the number (and the widths) of columns in a grid layout, 1fr is used 4 time      for fraction & means (4 Columns).
