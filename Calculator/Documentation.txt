@@ -1,5 +1,37 @@
 Description For index.html file
- &larr is used to add back arrow in calculator.
+ 1)<html lang="en">
+  lang is used for language and it specifies the language which is used. (i.e English)
+
+  2) <meta charset="utf-8"> 
+  Here, meta is the element and charset is the attribute and utf-8 specifies the charset endcoding for HTML Document.
+
+  3) <meta charset="viewport" content="width=device-width initial-scale=1.0">
+  Viewport is the user's visible area of the web page.
+  It gives instruction to the browser on how to control the page's scaling and dimensions.
+  (It will be smaller on the mobile phone and varies on the computer screen).
+  device-width set the width of the page according to the device width.
+  initial-scale=1.0 Initial-scale is designed to control the zoom level when the page is first loaded and to make sure that the content does not appear zoomed in/out, you need to ensure that the initial scale is set to 1.0.
+  
+  4) <link rel="stylesheet" href="style.css">
+  The rel attribute specifies the relationship between the current document and the linked document. Only used if the href attribute is present.
+  href is used to specifies the linked file name.
+
+  5) <section> tag is used to define a section in a document.
+  
+  6) <div class="container"> 
+  Containers are used to pad the content inside of them, and there are two container classes available: The .container class provides a responsive fixed width container. The .container-fluid class provides a full width container, spanning the entire width of the viewport.  
+
+  7) <div id="display">
+  id is used to target a specific element, classname can be used to target multiple elements.
+   
+  8) <div class="buttons">
+  The class attribute on a div element assigns one or more classnames to that element.
+
+  9) &larr is used to add back arrow in calculator.
+
+  10) <script src="index.js"></script>
+  The <script> tag is used to embed a client-side script (JavaScript).
+  src is used to specifie the linked js file name.
 
 Description For style.css file
   1fr is used 4 time for fraction & means (4 Columns).
