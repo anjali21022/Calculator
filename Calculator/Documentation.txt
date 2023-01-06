@@ -41,6 +41,12 @@ Description For style.css file
   
   2) #display
   padding: 16px 8px; (top and bottom paddings are 10px, right and left paddings are 20px).
+  
+  3) .buttons
+  grid-template-columns: 1fr 1fr 1fr 1fr: The grid-template-columns property specifies the number (and the widths) of columns in a grid layout, 1fr is used 4 time      for fraction & means (4 Columns).
+
+  4) .button:hover
+  Transitions allows you to change property values smoothly, over a given duration.
 
 Description For index.js file
   The slice() method returns selected elements in an array, as a new array.
