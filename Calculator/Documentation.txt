@@ -1,3 +1,4 @@
+// Code Descrition for understanding purpose for beginners
 Description For index.html file
   1)<html lang="en">
   lang is used for language and it specifies the language which is used. (i.e English)
